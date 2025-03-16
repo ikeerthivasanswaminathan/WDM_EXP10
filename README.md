@@ -1,5 +1,5 @@
 ### EX10 [PROJECT] Sentimental Analysis on Any Dataset Using Rapidminer
-### DATE: 
+### DATE: 16/03/2025
 ### AIM: To create a project for Sentimental Analysis on Any Dataset a Using Rapidminer
 ### Description: 
 <div align = "justify">
@@ -27,4 +27,9 @@
 
 ### Output:
 
+![Screenshot 2025-03-15 192755](https://github.com/user-attachments/assets/c797cdcb-a537-4959-abe6-cb06570688ed)
+
+![Screenshot 2025-03-15 192803](https://github.com/user-attachments/assets/2d1d7aa6-0250-4703-a88e-354996e96467)
+
 ### Result:
+Thus Sentimental Analysis for Amazon product reviews is executed successfully using RapidMiner
